@@ -1,5 +1,5 @@
-### Hi there 👋 
-I am a beginner C++ developer (n00bie). My free time is occupied by gaming and software development. There are not many repositories on the page, because all projects are mostly private and are in use.
+### Wassup
+I am a beginner developer. My free time is occupied by gaming and software development.
 
 
 ###### My working languages:
